@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1672254500 source:c:\users\gurip\desktop\teste-uri\main.cpp
+	<iostream>
+	<map>
+	<algorithm>
+	<cctype>
+	<string>
+

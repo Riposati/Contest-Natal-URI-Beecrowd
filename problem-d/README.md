@@ -14,19 +14,19 @@ Saída<br>
 Com base na receita fornecida, liste os ingredientes que os gnomos devem comprar em ordem alfabética crescente (ignore a quantidade e a unidade).<br>
 
 Samples Input<br>
-4
-farinha 2 xicaras
-ovos 2 unidades
-leite 1 xicara
-acucar 1 colher
-3
-leite 1 xicara
-acucar 1 xicara
-chocolate 2 colheres
+4<br>
+farinha 2 xicaras<br>
+ovos 2 unidades<br>
+leite 1 xicara<br>
+acucar 1 colher<br>
+3<br>
+leite 1 xicara<br>
+acucar 1 xicara<br>
+chocolate 2 colheres<br>
 
 Samples Output<br>
-acucar
-chocolate
-farinha
-leite
-ovos
+acucar<br>
+chocolate<br>
+farinha<br>
+leite<br>
+ovos<br>

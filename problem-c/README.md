@@ -9,4 +9,17 @@ Os elfos utilizaram todos os seus poderes mágicos para saber quantas crianças 
 Entrada<br>
 A entrada consiste de duas linha, a primeira linha contém um inteiro P, (1 ≤ |P| ≤ 105), correspondente ao número de presentes produzidos até o momento. A segunda linha contém um inteiro N, (1 ≤ N ≤ 1012), indicando quantas crianças devem receber pelo menos um presente<br>
 Saída<br>
-A saída consiste de uma mensagem e um número inteiro, se a quantidade de presentes produzidos não for suficiente o programa deve imprimir “Ainda faltam X presentes!” onde X é a  quantidade de presentes que devem ser feitos para cada criança receber ao menos um presentes, caso contrário, “Sobraram X presentes!”,onde X é a quantidade de presentes que irá sobrar para o próximo Natal.
+A saída consiste de uma mensagem e um número inteiro, se a quantidade de presentes produzidos não for suficiente o programa deve imprimir “Ainda faltam X presentes!” onde X é a  quantidade de presentes que devem ser feitos para cada criança receber ao menos um presentes, caso contrário, “Sobraram X presentes!”,onde X é a quantidade de presentes que irá sobrar para o próximo Natal.<br>
+
+Samples Input<br>
+
+42371723<br>
+10592923<br>
+
+1005<br>
+100000<br>
+
+Samples Output<br>
+
+Sobraram 31 presentes!<br>
+Ainda faltam 98995 presentes!<br>

@@ -58,16 +58,16 @@ int main()
 
                             contQtsChristmas++;
 
-                            mapSolution.find('a')->second =  mapSolution.find('a')->second - 1;
-                            mapSolution.find('r')->second =  mapSolution.find('r')->second - 3;
-                            mapSolution.find('c')->second =  mapSolution.find('c')->second - 1;
-                            mapSolution.find('s')->second =  mapSolution.find('s')->second - 2;
-                            mapSolution.find('t')->second =  mapSolution.find('t')->second - 1;
-                            mapSolution.find('e')->second =  mapSolution.find('e')->second - 1;
-                            mapSolution.find('h')->second =  mapSolution.find('h')->second - 1;
-                            mapSolution.find('y')->second =  mapSolution.find('y')->second - 1;
-                            mapSolution.find('i')->second =  mapSolution.find('i')->second - 1;
-                            mapSolution.find('m')->second =  mapSolution.find('m')->second - 2;
+                            mapSolution.find('a')->second -= 1;
+                            mapSolution.find('r')->second -= 3;
+                            mapSolution.find('c')->second -= 1;
+                            mapSolution.find('s')->second -= 2;
+                            mapSolution.find('t')->second -= 1;
+                            mapSolution.find('e')->second -= 1;
+                            mapSolution.find('h')->second -= 1;
+                            mapSolution.find('y')->second -= 1;
+                            mapSolution.find('i')->second -= 1;
+                            mapSolution.find('m')->second -= 2;
                     }
                 }
             }

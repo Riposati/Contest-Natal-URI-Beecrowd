@@ -16,8 +16,6 @@ int main()
 
     scanf("%d",&testCases);
 
-    getchar();
-
     while (testCases > 0) {
 
         mapSolution.insert(make_pair('m', 0));
